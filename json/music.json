@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "nom": "Rap",
+    "musique": [
+      {
+        "id": 1,
+        "nom artiste": "Siboy",
+        "titre": "PIstolet",
+        "description": "Rap",
+        "image": "Images/Siboy.png",
+        "lien": "https://www.trackzik.com/wp-content/uploads/2019/03/Siboy-Pistolet.mp3"
+      },
+      {
+        "id": 2,
+        "nom artiste": "Nekfeu",
+        "titre": "Pixels",
+        "description": "cool",
+        "image": "Images/nekfeu.jpg",
+        "lien": "https://trackzik.com/wp-content/uploads/2019/06/29-Pixels.mp3"
+      },
+      {
+        "id": 3,
+        "nom artiste": "Maes",
+        "titre": "Mama",
+        "description": "Rap",
+        "image": "Images/maes.png",
+        "lien": "https://trackzik.com/wp-content/uploads/2019/03/Maes-MaMa-mp3-Single.mp3"
+      },
+      {
+        "id": 4,
+        "nom artiste": "Ninho",
+        "titre": "Big-pac",
+        "description": "Rap",
+        "image": "Images/ninho.jpg",
+        "lien": "https://trackzik.com/wp-content/uploads/2019/03/08-Big-Pac.mp3"
+      },
+      {
+        "id": 5,
+        "nom artiste": "Zola",
+        "titre": "Papers feat Ninho ",
+        "description": "Rap",
+        "image": "Images/zola.jpg",
+        "lien": "https://trackzik.com/wp-content/uploads/2019/04/07-Papers-Feat-Ninho.mp3"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "Coupé Décalé",
+    "musique": [
+      {
+        "id": 1,
+        "nom artiste": "Arafat Dj",
+        "titre": "Enfant beni",
+        "description": "Coupé Décalé",
+        "image": "Images/arafat.jpg",
+        "lien": "https://www.babiremix.com/songs/DJ%20ARAFAT%20-%20ENFANT%20BENI.mp3"
+      },
+      {
+        "id": 2,
+        "nom artiste": "Safarel",
+        "titre": "Lei",
+        "description": "Coupé Décalé",
+        "image": "Images/safarel.jpg",
+        "lien": "https://www.babiremix.com/songs/SAFAREL%20OBIANG%20-%20LEHI.mp3"
+      },
+      {
+        "id": 3,
+        "nom artiste": "Dj Mix Premier",
+        "titre": "Hommage à DJ Arafat",
+        "description": "Coupé Décalé",
+        "image": "Images/mix.jpg",
+        "lien": "https://www.babiremix.com/songs/DJ%20MIX%20PREMIER%20-%20HOMMAGE%20A%20DJ%20ARAFAT.mp3"
+      },
+      {
+        "id": 4,
+        "nom artiste": "Ramses Tikaya",
+        "titre": "Kle Baha",
+        "description": "Coupé Décalé",
+        "image": "Images/ramses.jpg",
+        "lien": "https://www.babiremix.com/songs/RAMSES%20TIKAYA%20-%20KPLE%20BAHA.mp3"
+      },
+      {
+        "id": 5,
+        "nom artiste": "Ariel Sheney",
+        "titre": "Amina",
+        "description": "Rap Décalé",
+        "image": "Images/ariel.jpg",
+        "lien": "https://www.babiremix.com/songs/ARIEL%20SHENEY%20-%20AMINA.mp3"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nom": "R&B ",
+    "musique": [
+      {
+        "id": 1,
+        "nom artiste": "Angel",
+        "titre": "Balance ton quoi",
+        "description": "R&B",
+        "image": "Images/angel.jpg",
+        "lien": "https://ump3.club/api/@download/25711-5dc2bc2d924b2-4487874-186-192-file-4487874/mp3/3zCCGvyhRt0/Ang%25C3%25A8le%2B-%2BBalance%2Bton%2Bquoi%2B%2528%2BAUDIO%2B%2529.mp3"
+      },
+      {
+        "id": 2,
+        "nom artiste": "Aya Nakamura",
+        "titre": "Pookie",
+        "description": "R&B",
+        "image": "Images/aya.jpg",
+        "lien": "https://ump3.club/api/@download/33396-5dc2bcc0ef230-4307557-179-192-file-4307557/mp3/NVcFmG3nB5M/Aya%2BNakamura%2B-%2BPookie%2B%2528Paroles%2BLyrics%2BVideo%2529.mp3"
+      },
+      {
+        "id": 3,
+        "nom artiste": "Ed Sheran",
+        "titre": "Shape of You",
+        "description": "R&B",
+        "image": "Images/ed.jpg",
+        "lien": "https://ump3.club/api/@download/29682-5dc2bd34bfbda-5642153-235-192-file-5642153/mp3/_dK2tDK9grQ/Ed%2BSheeran%2B-%2BShape%2BOf%2BYou%2B%255BOfficial%2BLyric%2BVideo%255D.mp3"
+      },
+      {
+        "id": 4,
+        "nom artiste": "Chris Brown",
+        "titre": "Beautiful people",
+        "description": "R&B",
+        "image": "Images/chris.jpg",
+        "lien": "https://ump3.club/api/@download/251-5dc2bdb88a036-5496000-229-192-webm-3630071/mp3/VGyxgRidfZU/Chris%2BBrown%2B-%2BBeautiful%2BPeople.mp3"
+      },
+      {
+        "id": 5,
+        "nom artiste": "Gambi",
+        "titre": "Popopo",
+        "description": "R&B",
+        "image": "Images/gambi.jpg",
+        "lien": "https://ump3.club/api/@download/251-5dc2be983787b-3720000-155-192-webm-2542415/mp3/R7RdLiajpOw/Gambi%2B-%2BPopopop%2B%25288D%2BAUDIO%2529.mp3"
+      }
+    ]
+  }
+]
